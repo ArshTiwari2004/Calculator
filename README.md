@@ -25,4 +25,4 @@ Use the percentage button for percentage calculations.
 Press the equal (=) button to evaluate the entered expression.
 
 Live Demo
-You can try the calculator live : file:///C:/Users/Arsh%20tiwari/OneDrive/Desktop/calculator/index.html
+You can try the calculator live :  https://arshtiwari2004.github.io/Calculator/
